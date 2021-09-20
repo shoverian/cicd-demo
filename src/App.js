@@ -1,6 +1,6 @@
 // import React, { useState, useEffect } from 'react';
 import React from 'react';
-import logo from './vfb-logo.png';
+// import logo from './vfb-logo.png';
 import './App.css';
 import Menu from './components/menu/Menu';
 import Footer from './components/footer/Footer';
