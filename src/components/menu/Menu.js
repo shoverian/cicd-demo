@@ -4,7 +4,12 @@ import './Menu.css'
 const Menu = () => {
     return (
     <div id="menu">
-        Menu
+        <div className="menu-group">
+            <div className="bar"></div>
+            <div className="bar"></div>
+            <div className="bar"></div>
+            Menu
+        </div>
     </div>
     );
 }

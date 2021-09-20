@@ -1,9 +1,25 @@
 #menu {
-    height: 100vh;
-    display: static;
+    height: 222%;
+    position: absolute;
     left: 0;
     top: 0;
     width: 70px;
     background-color: #333;
     color: #FFF;
+    z-index: 999;
+}
+
+.menu-group {
+
+}
+
+.bar {
+    width: 35px;
+    height: 4px;
+    background-color: #FFF;
+    margin: 6px 17px;
+}
+
+.bar:first-of-type {
+    margin-top: 10px;
 }

@@ -1,0 +1,18 @@
+.progress-block {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 40px 0 10px 0;
+}
+
+.progress-block li {
+    display: inline;
+    padding: 10px 30px;
+    color: #8a2432;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+ul.position {
+    padding-left: 0;
+}

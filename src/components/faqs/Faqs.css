@@ -1,0 +1,13 @@
+.faq-panel {
+    border: 1px solid #CCC;
+    background: #FFF;
+    box-shadow: 2px 3px 3px #ccc;
+    margin-top: 1rem;
+    text-align: left;
+    padding: 15px;
+}
+
+.faq-panel ul {
+    list-style: none;
+    padding-left: 0;
+}
